@@ -19,8 +19,7 @@ Estos paquetes permiten instalar de forma rápida un **stack de desarrollo** que
 
 | Entorno   | Plataforma      | Componentes principales                                                                 | Uso principal |
 |-----------|-----------------|-----------------------------------------------------------------------------------------|---------------|
-
-| **XAMPP** | Multiplataforma ✖️ | Apache · MySQL/MariaDB · PHP · Perl                                                   | Entorno portable y educativo |
+| **XAMPP** | Multiplataforma ✖️ | Apache · MySQL/MariaDB · PHP · Perl                                                  | Entorno portable y educativo |
 
 
 📌 **Nota:**  
